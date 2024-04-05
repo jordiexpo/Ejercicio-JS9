@@ -1,4 +1,6 @@
-const arr = ['a','b','c','d','e'];
-arr.forEach(letter => {
- console.log(letter)
-})
+let numero = 5;
+while (numero > 0) {
+  console.log(numero);
+  numero--; 
+}
+console.log("El valor ha llegado a 0.");
